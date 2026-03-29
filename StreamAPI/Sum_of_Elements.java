@@ -1,5 +1,7 @@
 // Problem: Calculate the sum of elements in a list of integers.
 
+// Explanation: mapToInt converts the stream to an IntStream, which provides the sum method to get the total.
+
 package StreamAPI;
 
 import java.util.Arrays;
